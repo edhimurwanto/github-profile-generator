@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/github-profile-generator/static/css/main.129d5917.css",
-    "main.js": "/github-profile-generator/static/js/main.e7a851b0.js",
+    "main.js": "/github-profile-generator/static/js/main.3321fbcb.js",
     "static/js/787.640b9bf9.chunk.js": "/github-profile-generator/static/js/787.640b9bf9.chunk.js",
     "index.html": "/github-profile-generator/index.html",
     "main.129d5917.css.map": "/github-profile-generator/static/css/main.129d5917.css.map",
-    "main.e7a851b0.js.map": "/github-profile-generator/static/js/main.e7a851b0.js.map",
+    "main.3321fbcb.js.map": "/github-profile-generator/static/js/main.3321fbcb.js.map",
     "787.640b9bf9.chunk.js.map": "/github-profile-generator/static/js/787.640b9bf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.129d5917.css",
-    "static/js/main.e7a851b0.js"
+    "static/js/main.3321fbcb.js"
   ]
 }
